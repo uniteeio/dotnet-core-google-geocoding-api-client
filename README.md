@@ -23,7 +23,7 @@ Add Google Api key in the root of your appsettings.json :
     }
   },
   <b>"GoogleGeocodingApi": {
-    "ApiKey": "11111cd89cb4b2ecd77decd5d5fd778965403779d7f3ba1abba459901c4gg4d5d",
+    "ApiKey": "your_api_key",
   }</b>
 }
 </pre>
